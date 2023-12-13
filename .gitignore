@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/advent3/.vs
+/advent3/advent3/bin/Debug/net8.0
+/advent3/advent3/obj
